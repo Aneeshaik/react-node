@@ -1,5 +1,4 @@
-## Installation
----
+<span style="font-size:0.5em;">## Installation</span>
 
 A code template to connect `react.js` file to existing `node.js` application. Creating react files in separate react folder. 
 Accessing static files which are created by `parcel` in `dist` folder using `express.static` method.
